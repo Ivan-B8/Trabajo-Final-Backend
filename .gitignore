@@ -1,0 +1,4 @@
+node_modules/
+npm-debug.log*
+.DS_Store
+# NOTA: el .env de ejemplo (con placeholders) se sube a propósito por requisito de la entrega.
